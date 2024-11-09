@@ -1,4 +1,3 @@
-#La Restaurante
 La Restaurante is a visually appealing and user-friendly restaurant website built using HTML, CSS, JavaScript, and React. This project is designed to showcase a variety of delicious foods, providing visitors with a detailed menu and other helpful features that enhance their dining experience.
 
 Features
