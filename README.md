@@ -12,7 +12,7 @@ Responsive Design: Optimized for all devices, ensuring a smooth and seamless exp
 
 Technologies Used
 
-Frontend: HTML, CSS, JavaScript, React
+ •Frontend: HTML, CSS, JavaScript, React
 
 Setup
 
