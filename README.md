@@ -11,9 +11,11 @@ Find Us: Interactive map to help customers find the restaurant location quickly 
 Responsive Design: Optimized for all devices, ensuring a smooth and seamless experience on desktops, tablets, and mobile phones.
 
 Technologies Used
+
 Frontend: HTML, CSS, JavaScript, React
 
 Setup
+
 To run this project locally:
 
 Clone the repository: git clone https://github.com/yourusername/la-restaurante.git
