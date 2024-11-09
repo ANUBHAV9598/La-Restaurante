@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dea7a87d.css",
+    "main.js": "/static/js/main.32be25af.js",
+    "static/media/parallax01.jpg": "/static/media/parallax01.e6f37bfea6642784b9d4.jpg",
+    "static/media/parallax02.jpg": "/static/media/parallax02.ffa6fdd75430dee32e60.jpg",
+    "static/media/mainMenu03.png": "/static/media/mainMenu03.443ca80b694b6fee65db.png",
+    "static/media/mainMenu02.png": "/static/media/mainMenu02.e9f385fd1b5f2a9ede51.png",
+    "static/media/mainMenu01.png": "/static/media/mainMenu01.e689bcc94535b79f36d0.png",
+    "static/media/home1.jpg": "/static/media/home1.f18c6b52190a832736db.jpg",
+    "static/media/hom3.jpg": "/static/media/hom3.781b71521b8bf9065e1f.jpg",
+    "static/media/hom2.jpg": "/static/media/hom2.54da04282f855dd41285.jpg",
+    "static/media/gallery08.jpg": "/static/media/gallery08.49bb9d2839922c45ad40.jpg",
+    "static/media/gallery03.jpg": "/static/media/gallery03.f2fecf466845044b9adc.jpg",
+    "static/media/gallery09.jpg": "/static/media/gallery09.8912272b96fed5283574.jpg",
+    "static/media/gallery06.jpg": "/static/media/gallery06.10c7f3f33df566be59b5.jpg",
+    "static/media/gallery02.jpg": "/static/media/gallery02.07ac6a52b3b5ecfd85f1.jpg",
+    "static/media/gallery04.jpg": "/static/media/gallery04.c38639fb506456d72ba8.jpg",
+    "static/media/gallery05.jpg": "/static/media/gallery05.35df1d203cedfa6b50d4.jpg",
+    "static/media/gallery01.jpg": "/static/media/gallery01.62827dde1d0816842e55.jpg",
+    "static/media/about03.jpg": "/static/media/about03.b512adb3a0adb3cc47d3.jpg",
+    "static/media/gallery07.jpg": "/static/media/gallery07.cfb14f0531ddd4e10ea9.jpg",
+    "static/media/about02.jpg": "/static/media/about02.de7a620ceac8be4da920.jpg",
+    "static/media/about01.jpg": "/static/media/about01.ab5eae1bc48f694867d4.jpg",
+    "static/media/about05.jpg": "/static/media/about05.11999d2ee8405d78fd87.jpg",
+    "static/media/about06.jpg": "/static/media/about06.fff97fd7a3a7f35e9b87.jpg",
+    "static/media/button_line.png": "/static/media/button_line.7acca6d860bbec18d150.png",
+    "static/media/about04.jpg": "/static/media/about04.2a3b591905e511c6c797.jpg",
+    "static/media/logo_intro.png": "/static/media/logo_intro.f287247321aa74b43b4a.png",
+    "index.html": "/index.html",
+    "main.dea7a87d.css.map": "/static/css/main.dea7a87d.css.map",
+    "main.32be25af.js.map": "/static/js/main.32be25af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dea7a87d.css",
+    "static/js/main.32be25af.js"
+  ]
+}
